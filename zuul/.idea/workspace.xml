@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="129ebc1b-79dc-4f70-a052-8aca968838d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/microservicios/zuul/SimpleFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-client" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-client" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607470346728</updated>
-      <workItem from="1607470959839" duration="4769000" />
+      <workItem from="1607470959839" duration="5145000" />
     </task>
     <servers />
   </component>
