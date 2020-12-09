@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129ebc1b-79dc-4f70-a052-8aca968838d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../eureka-client" beforeDir="false" />
-    </list>
+    <list default="true" id="129ebc1b-79dc-4f70-a052-8aca968838d1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eureka-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eureka-client" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607470346728</updated>
-      <workItem from="1607470959839" duration="5145000" />
+      <workItem from="1607470959839" duration="5301000" />
     </task>
     <servers />
   </component>
@@ -89,42 +87,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1607471947098" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1607473738855">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1607477214072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607473738855" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1607476241364">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607477214072" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607476241364" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1607476241364">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607476241364" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1607476241364">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607476241364" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1607476241364">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607476241364" />
-    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1607476241365">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607476241365" />
-    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1607476241365">
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607476241365" />
-    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1607476241365">
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607476241365" />
-    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1607476241365">
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1607477215847">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607476241365" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607477215847" />
     <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1607473454632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
