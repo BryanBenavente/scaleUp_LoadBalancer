@@ -1,6 +1,6 @@
 package com.microservicios.eurekaclient.repository;
 
-import com.example.eurekaclient.model.Customer;
+import com.microservicios.eurekaclient.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

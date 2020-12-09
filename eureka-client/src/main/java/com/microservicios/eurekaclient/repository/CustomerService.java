@@ -1,6 +1,6 @@
 package com.microservicios.eurekaclient.repository;
 
-import com.example.eurekaclient.model.Customer;
+import com.microservicios.eurekaclient.model.Customer;
 
 import java.util.Date;
 import java.util.List;

@@ -2,8 +2,8 @@ package com.microservicios.eurekaclient.rest;
 
 import java.util.List;
 
-import com.example.eurekaclient.model.Customer;
-import com.example.eurekaclient.repository.CustomerService;
+import com.microservicios.eurekaclient.model.Customer;
+import com.microservicios.eurekaclient.repository.CustomerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

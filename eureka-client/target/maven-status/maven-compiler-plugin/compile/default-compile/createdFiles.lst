@@ -1,1 +1,5 @@
+com\microservicios\eurekaclient\repository\ICustomer.class
+com\microservicios\eurekaclient\repository\CustomerService.class
+com\microservicios\eurekaclient\rest\CustomerController.class
 com\microservicios\eurekaclient\EurekaClientApplication.class
+com\microservicios\eurekaclient\model\Customer.class
